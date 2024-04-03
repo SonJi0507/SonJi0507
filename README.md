@@ -1,4 +1,4 @@
-<div align="center"><img src="me_pic.png"/></div>
+<div align="center"><img src="me_pic.jpeg" style="width:400px;"/></div>
 <h3 align="center">:computer: Python Developer</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
