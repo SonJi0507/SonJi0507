@@ -6,7 +6,7 @@
 
 <!-- typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Developer;Python+%7C+Django+%7C+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Python+%7C+Django+%7C+FastAPI" alt="Typing SVG" />
 </p>
 
 ## Using
