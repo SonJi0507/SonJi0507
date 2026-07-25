@@ -26,7 +26,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SonJi0507&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SonJi0507&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SonJi0507&layout=compact&theme=github_dark&hide_border=true&hide=C%2B%2B,CMake,Dart" alt="Top languages" />
 </p>
 
 <p align="center">
