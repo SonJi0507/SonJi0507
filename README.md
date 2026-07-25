@@ -23,7 +23,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SonJi0507&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
